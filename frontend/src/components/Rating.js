@@ -1,5 +1,7 @@
 import React from 'react'
 
+//Five star rating system
+
 const Rating = ({ value, text, color }) => {
   return (
     <div className='rating'>

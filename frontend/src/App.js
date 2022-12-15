@@ -8,6 +8,8 @@ import HomeScreen from './screens/HomeScreen'
 import ProductScreen from './screens/ProductScreen'
 
 
+//Dynamic quick switch navbar
+
 function App() {
   return (
     <Router>
